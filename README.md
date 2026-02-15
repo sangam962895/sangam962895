@@ -61,7 +61,7 @@ Email Me 👉 ✉️ **info.sangamgupta@gmail.com** For Collaboration/Project or
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sangamgupt_96) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sangam-22ds166) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sangamkumaragupta119@gmail.com)  
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info.sangamgupta@gmail.com)  
 
 ## 🏆 LeetCode Stats
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Sangam96?theme=dark&font=Roboto&ext=contest)](https://leetcode.com/Sangam96/)
