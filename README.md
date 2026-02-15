@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sangam Kumar Gupta
+# 👋 Hi, I'm Sangam Kumar Gupt
 
 **Aspiring Artificial Intelligence & Machine Learning Engineer | AI/ML Intern | Open to Entry-Level Opportunities**
 
@@ -12,8 +12,8 @@ Email Me 👉 ✉️ **info.sangamgupta@gmail.com** For Collaboration/Project or
 * 🔭 **Currently working on:** Machine Learning projects (Malaria Detection, Insurance Fraud Detection)
 * 🌱 **Currently learning:** Machine Learning algorithms, Data Analysis & Deep Learning basics
 * 💬 **Ask me about:** Python, Machine Learning, Data Analysis
-* 📫 **Contact:** [info.sangamgupta@gmail.com](mailto:info.sangamgupta@gmail.com)
-* 👤 **Name:** Sangam Kumar Gupta
+* 📫 **Contact:** [9628918995](mailto:info.sangamgupta@gmail.com)
+* 👤 **Name:** Sangam Kumar Gupt
 * ⚡ **Interest:** Artificial Intelligence, Automation and Problem Solving
   
 # 💻 Tech Stack
