@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sangam Kumar Gupt 👋</h1>
+<h1 align="center">Hi, I'm Sangam Kumar Gupta 👋</h1>
 
 <p align="center">
   <b>AI/ML Engineer · Generative AI Developer · Open to Entry-Level Opportunities</b><br/>
@@ -20,13 +20,15 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sangam962895&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science undergraduate (Data Science) at **Noida Institute of Engineering and Technology**,
-passionate about building real-world AI systems. I specialize in **Generative AI, RAG pipelines,
-Transfer Learning, and NLP** — and I love turning complex problems into clean, deployable solutions.
+I'm a Computer Science undergraduate (Data Science) at **Noida Institute of Engineering and Technology**, passionate about building real-world AI systems. I specialize in **Generative AI, RAG pipelines, Transfer Learning, and NLP** — and I love turning complex problems into clean, deployable solutions.
 
 - 🔭 Currently building: ML projects in healthcare & finance domains
 - 🌱 Deepening expertise in: LLMs, Deep Learning, and Agentic AI
@@ -49,23 +51,24 @@ Transfer Learning, and NLP** — and I love turning complex problems into clean,
 
 ---
 
-### 📄 [SummarAIze — Smart Research Document Assistant](https://github.com/sangam962895)
+### 📄 [SummarAIze — Smart Research Document Assistant](https://github.com/sangam962895/SummarAIze)
 > AI assistant that reads long research PDFs/TXTs and enables instant summarization, Q&A, and quiz generation.
 
-- Implemented a **Retrieval-Augmented Generation (RAG)** pipeline using **FAISS** for semantic search with sub-second retrieval
+- Implemented a **RAG pipeline** using **LangChain + FAISS** for semantic search with sub-second retrieval
 - Built a modular **FastAPI** backend handling document embedding, chunking, and context-aware retrieval
-- Designed a **Streamlit** frontend enabling source-based Q&A and auto-generated quizzes from uploaded documents
+- Designed "**Challenge Me**" mode — AI generates logic-based questions and evaluates reasoning, not just right/wrong
+- Streamlit frontend enabling source-cited Q&A with zero hallucinations
 
 `Python` `LangChain` `FastAPI` `FAISS` `Streamlit` `Groq API` `RAG`
 
 ---
 
-### 🎬 [Talk2Tube — YouTube Q&A Chrome Extension (RAG)](https://github.com/sangam962895)
+### 🎬 [Talk2Tube — YouTube Q&A Chrome Extension](https://github.com/sangam962895)
 > Chrome Extension that lets users ask natural language questions about any YouTube video using a RAG pipeline.
 
 - Built a **Chrome Extension** with an interactive side panel for real-time Q&A on YouTube video transcripts
 - Implemented **FastAPI + LangChain + ChromaDB** backend for transcript indexing, semantic search, and response generation
-- Enabled real-time transcript chunking and embedding for accurate, context-aware video Q&A responses
+- Enabled real-time transcript chunking and embedding for accurate, context-aware video Q&A
 
 `Python` `LangChain` `ChromaDB` `FastAPI` `JavaScript` `Chrome Extension APIs` `RAG`
 
@@ -73,14 +76,23 @@ Transfer Learning, and NLP** — and I love turning complex problems into clean,
 
 ## 💻 Tech Stack
 
-| Category | Skills |
-|---|---|
-| **Languages** | Python, SQL |
-| **AI / ML** | TensorFlow, Keras, Transfer Learning, Scikit-Learn, NLP, RAG, Prompt Engineering |
-| **Generative AI** | LangChain, Google Gemini API, Groq API, FAISS, ChromaDB |
-| **Frameworks** | FastAPI, Flask, Streamlit |
-| **Data & Viz** | NumPy, Pandas, Matplotlib, Pillow |
-| **Tools** | Git, GitHub, Jupyter Notebook, Docker (basics) |
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq%20API-F55036?style=flat"/>
+</p>
 
 ---
 
@@ -93,23 +105,24 @@ Transfer Learning, and NLP** — and I love turning complex problems into clean,
 - 🧩 **LangChain** — chains, retrievers, memory, and document loaders
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangam962895&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sangam962895&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&cache_seconds=1800" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangam962895&theme=dark&hide_border=true&layout=compact&langs_count=6" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangam962895&theme=dark&hide_border=true&layout=compact&langs_count=6&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sangam962895&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sangam962895&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 ---
 
-## 🏆 Highlights
+## 🏆 Highlights & Certifications
 
-- ✅ Completed **AI/ML Virtual Internship** at SmartBridge (Jan–Mar 2026)
+- ✅ **AI/ML Virtual Internship** — SmartBridge (Jan–Mar 2026)
 - 📜 **Data Analysis with Python & Pandas** — Infosys Springboard (Oct 2024)
 - 📜 **What is Data Science** — IBM (May 2023)
 - 🎓 B.Tech in Computer Science (Data Science) — NIET, Greater Noida
