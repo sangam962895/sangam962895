@@ -135,7 +135,7 @@ I'm a Computer Science undergraduate (Data Science) at **Noida Institute of Engi
   💼 Open to <b>entry-level AI/ML, Data Science, or Generative AI roles</b><br/>
   🤝 Available for <b>collaborations, freelance projects, and open-source contributions</b><br/>
   ✉️ Email: <a href="mailto:info.sangamgupta@gmail.com">info.sangamgupta@gmail.com</a><br/>
-  🌐 Portfolio: <a href="https://portfoliyo-neon.vercel.app/">portfoliyo-neon.vercel.app</a>
+  🌐 Portfolio: <a href="https://portfolio-xi-tawny-88.vercel.app/">portfoliyo-neon.vercel.app</a>
 </p>
 
 ---
