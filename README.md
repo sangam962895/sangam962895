@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ecdc4,100:a29bfe&height=120&section=header" width="100%"/>
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sangam+Kumar+Gupta+%F0%9F%91%8B;AI+%2F+ML+Engineer;Generative+AI+Developer;RAG+Pipeline+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sangam+Kumar+Gupt+%F0%9F%91%8B;AI+%2F+ML+Engineer;Generative+AI+Developer;RAG+Pipeline+Builder" alt="Typing SVG" />
 </h1>
 
 <p><b>B.Tech CSE (Data Science) · NIET Greater Noida · Recently Graduated 2026</b></p>
@@ -20,6 +20,9 @@
   </a>
   <a href="https://github.com/sangam962895">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.kaggle.com/sangam962895">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
 </p>
 
@@ -40,8 +43,10 @@
 - 🎓 **Education:** B.Tech CSE (Data Science), NIET — 2026
 - 📍 **Location:** Greater Noida, UP → Open to Relocate
 - 🎯 **Focus:** RAG Pipelines, LLM Integration, Deep Learning
+- 🛠️ **Building:** Intelligent systems that solve real-world problems
 - 📧 **Contact:** info.sangamgupta@gmail.com | +91 9628918995
 
+- 🔭 Currently building ML projects in **healthcare & finance** domains
 - 🌱 Deepening expertise in **LLMs, Agentic AI, and Deep Learning**
 - 💡 Interests: AI Automation, Intelligent Assistants, Data-Driven Products
 - 🤝 Open to **collaborations, freelance projects, and open-source contributions**
@@ -107,13 +112,14 @@
 </td>
 <td width="50%" valign="top">
 
-### 🧠 What's Next
-> Exploring ideas for upcoming projects — nothing fixed yet.
+### 🧠 What I'm Building Next
+> Always cooking something new...
 
-- 📈 Maybe a **finance + LLM** analysis tool
-- 🤖 Learning more about **Agentic AI** (LangGraph, tool-calling)
+- 🏥 **MediAssist** — RAG-based clinical document Q&A
+- 📈 **FinSight** — LLM-powered financial report analyzer
+- 🤖 **Agentic AI** workflows with LangGraph & tool-calling
 
-*Still exploring — plans may change!*
+*Stay tuned — repositories dropping soon!*
 
 </td>
 </tr>
@@ -223,6 +229,33 @@
 
 </div>
 
+---
+
+## 🏅 Kaggle Profile
+
+<div align="center">
+
+<a href="https://www.kaggle.com/sangam962895">
+  <img src="https://img.shields.io/badge/Kaggle-View%20Profile%20%26%20Badges-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<p>🏆 Check out my competition ranks, notebook medals, and dataset badges directly on my Kaggle profile.</p>
+
+</div>
+
+## 💡 LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Sangam96?theme=dark&font=Fira%20Code&ext=heatmap" />
+
+<br/>
+
+<img src="https://leetcard.jacoblin.cool/Sangam96?theme=dark&font=Fira%20Code&ext=contest" />
+
+</div>
+
+---
 ---
 
 ## 🏆 Experience & Certifications
