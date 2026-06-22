@@ -114,8 +114,7 @@
 
 ### 🧠 What I'm Building Next
 > Always cooking something new...
-
-- 🏥 **MediAssist** — RAG-based clinical document Q&A
+> 
 - 📈 **FinSight** — LLM-powered financial report analyzer
 - 🤖 **Agentic AI** workflows with LangGraph & tool-calling
 
